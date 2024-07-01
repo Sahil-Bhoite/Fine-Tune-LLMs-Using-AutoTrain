@@ -1,0 +1,7 @@
+autotrain-advanced
+torch
+torchvision
+torchaudio
+deepspeed
+flash-attn
+bitsandbytes
